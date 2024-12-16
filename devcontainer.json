@@ -1,0 +1,4 @@
+{
+  "name": "My Generic Codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
